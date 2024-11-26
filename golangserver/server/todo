@@ -1,0 +1,3 @@
+.. use concurrency in golang 
+  -- if the file is not present then increase its rank i.e place it on the next queue 
+  -- if the file is present then serve the file this is gonna be pretty complex 
